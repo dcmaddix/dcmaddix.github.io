@@ -1,7 +1,7 @@
 ---
 title: "Numerical Artifacts in the discontinuous Generalized Porous Medium Equation: How to avoid spurious temporal oscillations"
 collection: publications
-permalink: https://www.sciencedirect.com/science/article/pii/S002199911830278X
+permalink: /publications/2009-10-01-paper-title-number-2
 excerpt: 
 date: 2018
 venue: 'Journal of Computational Physics'
