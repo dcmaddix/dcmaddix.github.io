@@ -1,7 +1,7 @@
 ---
 title: 'Paper on forecasting spread of COVID-19 wins best-paper award'
 date: 2021-02-22
-permalink: /posts/best_paper_award/
+permalink: /posts/2013/08/best_paper_award/
 tags:
   - machine learning in public heath
   - best paper award
