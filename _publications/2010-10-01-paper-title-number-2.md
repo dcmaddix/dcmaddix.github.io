@@ -5,10 +5,6 @@ permalink: /publications/2009-10-01-paper-title-number-2
 excerpt: 
 date: 2018-09-01
 venue: 'Journal of Computational Physics'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S002199911830278X'
-citation: 'Maddix D., Sampaio L., Gerritsen M. (2018). &quot;Numerical Artifacts in the discontinuous Generalized Porous Medium Equation: How to avoid spurious temporal oscillations.&quot; <i>Journal of Computational Physics</i>. 1(2).'
+paperurl: '[Link](https://www.sciencedirect.com/science/article/pii/S002199911830278X)'
+citation: 'Maddix D., Sampaio L., Gerritsen M. (2018). &quot;Numerical Artifacts in the discontinuous Generalized Porous Medium Equation: How to avoid spurious temporal oscillations.&quot; <i>Journal of Computational Physics</i>. 368(277-298).'
 ---
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
