@@ -1,0 +1,1 @@
+1. [Rui (Ray) Wang](https://rui1521.github.io), University of San Diego, 2020. [Bridging Physics-based and Data-driven modeling for Learning Dynamical Systems](http://proceedings.mlr.press/v144/wang21a/wang21a.pdf), Advisor: [Rose Yu](https://roseyu.com/)
