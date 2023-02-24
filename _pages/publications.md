@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-For a complete list of my publications please see: <u><a href="{{https://scholar.google.com/citations?user=IPDByA8AAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
+For a complete list of my publications please see: [my Google Scholar profile](https://scholar.google.com/citations?user=IPDByA8AAAAJ&hl=en).
+
+## Selected Publications
 
 {% include base_path %}
 
