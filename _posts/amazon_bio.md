@@ -1,7 +1,7 @@
 ---
 title: 'How applied math impacts forecasting at Amazon'
 date: 2022-04-05
-permalink: /posts/2014/08/blog-post-3/
+permalink: /posts/2014/08/amazon_bio/
 tags:
   - COVID19 forecasting
   - mathematics
