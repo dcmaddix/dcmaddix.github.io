@@ -1,11 +1,12 @@
 ---
-permalink: /
+layout: archive
 title: "Students"
-excerpt: "Students"
+permalink: /students/
 author_profile: true
-redirect_from: 
-  - /students/
+redirect_from:
+  - /students
 ---
+
 
 I have been fortunate to advise several PhD student interns.
 
