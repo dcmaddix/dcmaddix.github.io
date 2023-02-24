@@ -1,7 +1,7 @@
 ---
 title: "Deep Factors for Forecasting"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publications/deep_factors
 excerpt:
 date: 2019-05-24
 venue: 'Proceedings of the 39th International Conference on Machine Learning (ICML)'
