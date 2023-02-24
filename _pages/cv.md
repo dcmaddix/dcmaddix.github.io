@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Applied Mathematics, University of California, Berkeley, 2012
+* M.S. in Computational and Mathematical Engineering, Stanford University, 2015
+* Ph.D in Computational and Mathematical Engineering, Stanford University, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2016 - June: Research Associate
+  * Stanford University
+  * DIn my PhD research, I worked with Professor Gerritsen in developing accurate and stable methods, as well as computationally efficient algorithms, for modeling flow through porous media. These methods are designed to accurately represent the underlying physics, and remove numerical artifacts associated with current state-of-the-art finite volume discretizations.
+  * Supervisor: Professor Margot Gerritsen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2015 - September 2015: CUDA Software Engineer
+  * NVIDIA
+  * Developed efficient parallel algorithms for sparse matrix vector multiplication (spmv) on the GPU for CUDA toolkit libraries, including cuSPARSE and nvGRAPH. Worked on problems in graph analytics, including utilizing the spmv to accelerate the pagerank, maximum flow and single source shortest path algorithms.
+
+* May 2012 - June 2015: Computational Researcher
+  * Lawrence Berkeley National Laboratory (LBL)
+  * Worked in the Computational Research Division under Professor James Sethian, applying multiphase flow algorithms using the Voronoi Implicit Interface Method (VIIM) to shape optimization problems.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
