@@ -25,7 +25,7 @@ Work experience
 
 * March 2016 - June 2018: Research Associate, Stanford University
   * In my PhD research, I worked with Professor Gerritsen in developing accurate and stable methods, as well as computationally efficient algorithms, for modeling flow through porous media. These methods are designed to accurately represent the underlying physics, and remove numerical artifacts associated with current state-of-the-art finite volume discretizations.
-  * Supervisor: Professor Margot Gerritsen
+  * Advisor: Professor Margot Gerritsen
 
 * June 2017 - September 2017: Extreme-Scale Data Analytics Intern
   * Developed physics-constrained (structure preserving) reduced order models (ROMs) for computationally expensive high fidelity models in computational fluid dynamics. 
