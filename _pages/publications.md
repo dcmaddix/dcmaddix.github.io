@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-For a complete list of my publications please see: [my Google Scholar profile](https://scholar.google.com/citations?user=IPDByA8AAAAJ&hl=en).
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
 ## Selected Publications
 
