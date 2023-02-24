@@ -12,4 +12,8 @@ location: "Long Beach, CA"
 
 Here we describe our [GluonTS](https://github.com/awslabs/gluonts) open-source package for probabilistic time series modeling in Python. It contains both classical state space models and deep learning models.
 
-I also presented this at the Amazon Conference for Machine Learning (AMLC) in Seattle in July 2019.
+I also presented on GluonTS at the following venues:
+  - The Amazon Conference for Machine Learning (AMLC) in Seattle in July 2019
+  - Time Series Meetup hosted by Meta in June 2022, which included our latest research:
+    - [Removing quantle crossing](https://proceedings.mlr.press/v151/park22a.html)
+    - [Domain Adaptation for Time Series Forecasting](https://proceedings.mlr.press/v162/jin22d/jin22d.pdf)
