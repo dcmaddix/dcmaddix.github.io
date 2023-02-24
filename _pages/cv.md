@@ -17,17 +17,23 @@ Education
 
 Work experience
 ======
-* March 2016 - June: Research Associate
-  * Stanford University
-  * DIn my PhD research, I worked with Professor Gerritsen in developing accurate and stable methods, as well as computationally efficient algorithms, for modeling flow through porous media. These methods are designed to accurately represent the underlying physics, and remove numerical artifacts associated with current state-of-the-art finite volume discretizations.
+* March 2021 - Present: Senior Applied Scientist, AWS AI Labs, Amazon Web Services (AWS)
+  * I am leading the DeepEarth research team to develop novel physics-constrained machine learning solutions for computational fluid dynamics (CFD) and earth science applications as well as developing foundation models for weather forecasting.
+
+* September 2018 - March 2021: Applied Scientist II, AWS AI Labs, Amazon Web Services (AWS)
+  * I worked on developing, implementing and researching novel probabilistic deep learning models for time series forecasting in the open-source package [GluonTS](https://github.com/awslabs/gluonts) and leading the productionalization effort Amazon Forecast.
+
+* March 2016 - June 2018: Research Associate, Stanford University
+  * In my PhD research, I worked with Professor Gerritsen in developing accurate and stable methods, as well as computationally efficient algorithms, for modeling flow through porous media. These methods are designed to accurately represent the underlying physics, and remove numerical artifacts associated with current state-of-the-art finite volume discretizations.
   * Supervisor: Professor Margot Gerritsen
 
-* June 2015 - September 2015: CUDA Software Engineer
-  * NVIDIA
+* June 2017 - September 2017: Extreme-Scale Data Analytics Intern
+  * Developed physics-constrained (structure preserving) reduced order models (ROMs) for computationally expensive high fidelity models in computational fluid dynamics. 
+
+* June 2015 - September 2015: CUDA Software Engineer Intern, NVIDIA
   * Developed efficient parallel algorithms for sparse matrix vector multiplication (spmv) on the GPU for CUDA toolkit libraries, including cuSPARSE and nvGRAPH. Worked on problems in graph analytics, including utilizing the spmv to accelerate the pagerank, maximum flow and single source shortest path algorithms.
 
-* May 2012 - June 2015: Computational Researcher
-  * Lawrence Berkeley National Laboratory (LBL)
+* May 2012 - June 2015: Computational Researcher, Lawrence Berkeley National Laboratory (LBL)
   * Worked in the Computational Research Division under Professor James Sethian, applying multiphase flow algorithms using the Voronoi Implicit Interface Method (VIIM) to shape optimization problems.
   
 
@@ -49,6 +55,31 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Awards and Honors
+======
+* December 2020: Best Paper Award: Machine Learning in Public Health NeurIPS 2020 Workshop
+  *  *AutoODE: Bridging Physics-based and Data-driven modeling for COVID-19 Forecasting*
+
+* May 2018: ICME Outstanding Leadership Award
+
+* May 2016: 2016 ICME Xpo Poster Presentation Award
+  *  *Sparse Matrix Vector Multiplication Using the Merge Path* (NVIDIA Internship project)
+
+* 2013-2016: 2013 National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)
+
+* March 2013: 2012 – 2013 Outstanding Graduate Student Instructor Award, University of California, Berkeley
+
+* May 2012: Percy Lionel Davis Award for Excellence in Mathematics
+
+* Spring 2011: Junior Initiate to Phi Beta Kappa Honor Society
+
+* Fall 2008 – Spring 2012: Dean’s List/Honors to Date in College of Letters and Sciences
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2022-Present: Reviewer, *Reviewer, Nature Machine Intelligence, AISTATS*
+* 2021-Present: Reviewer, *Conference on Neural Information Processing Systems (NeurIPS)*
+* 2019-Present: Reviewer, *International Conference on Machine Learning (ICML)*
+* 2016-Present: Reviewer, *Journal of Computational Physics, Science Advances*
+* 2013-Present: Technology, Engineering and Mathematical Sciences Judge
+* Fall 2011: Panel Member for Letters & Science “Finding Your Way” Advising Program
