@@ -9,4 +9,4 @@ paperurl: 'https://arxiv.org/abs/2302.11002'
 citation: 'Hansen, D., Maddix, D., Alizadeh, S., Gupta, G., Mahoney, M.W. (2023). &quot;Learning Physical Models that Can Respect Conservation Laws.&quot; <i>Technical Report Preprint: arXiv:2302.11002, In submission</i>.'
 ---
 
-[Code Link](https://github.com/amazon-science/probconserv): Our ProbConserv Code is on the amazon-science github.
+Our ProbConserv [code](https://github.com/amazon-science/probconserv) is on the amazon-science github.
