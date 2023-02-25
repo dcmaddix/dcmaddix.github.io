@@ -2,7 +2,7 @@
 title: "CME 292 Advanced MATLAB for Scientific Computing"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/cme292
 venue: "Stanford University"
 date: 2016-09-01
 location: "Stanford, CA"
