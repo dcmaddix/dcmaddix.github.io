@@ -6,7 +6,7 @@ excerpt:
 date: 2023-01-01
 venue: 'Proceedings of the International Conference on Learning Representations (ICLR)'
 paperurl: 'https://arxiv.org/abs/2212.07477'
-citation: 'Saad N.*, Gupta G.*, Alizadeh S., Maddix D. (2023). &quot;Guiding Continuous Operator Learning through Physics-based boundary constraints.&quot; <i>Proceedings of the International Conference on Learning Representations (ICLR)</i>.'
+citation: 'Saad, N.*, Gupta, G.*, Alizadeh, S., Maddix, D.C. (2023). &quot;Guiding Continuous Operator Learning through Physics-based boundary constraints.&quot; <i>Proceedings of the International Conference on Learning Representations (ICLR)</i>.'
 ---
 
 Our Boundary enforcing Operator Network (BOON) [code](https://github.com/amazon-science/boon) is on the amazon-science github.
