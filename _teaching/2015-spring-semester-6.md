@@ -8,7 +8,7 @@ date: 2011-01-20
 location: Berkeley, CA
 ---
 
-I was one of a few undergraduate student instructors selected in the University of California, Berkeley's mathematics department.
+I was one of a few undergraduate student instructors selected in the University of California, Berkeley's mathematics department from 2011-2012.
 
 I taught the following courses:
   - [Math 16B](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math16B), introductory calculus II course for life science majors in the Spring semester 2011.
