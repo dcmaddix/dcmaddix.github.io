@@ -12,15 +12,15 @@ I have been fortunate to advise and co-advise several PhD student interns:
   - [Derek Hansen](http://www-personal.umich.edu/~dereklh/) 2022.
     - [Learning Physical Models that Can Respect Conservation Laws](https://arxiv.org/pdf/2302.11002.pdf), *Technical Report, Preprint: arXiv:/2302.11002*, 2023.
     - PhD Candidate in Statistics and Scientific Computing, University of Michigan
-    - Collaborated with Professor Michael W. Mahoney, University of California, Berkeley
+    - Collaborated with Professor [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/), University of California, Berkeley
   - [Xiyuan Zhang](https://xiyuanzh.github.io/) 2022.
     - [First De-Trend then Attend: Rethinking Attention for Time-Series Forecasting](https://arxiv.org/pdf/2212.08151.pdf), *All Things Attention: Bridging Different Perspectives on Attention NeurIPS Workshop*, 2022.
     - PhD Candidate in Computer Science and Engineering (CSE), University of California, San Diego
   - [Jiayao Zhang](https://jiayao-zhang.com/) 2022.
-    - [Towards reverse causal inference on panel data: Precise formulation and challenges], *A Causal View on Dynamical Systems NeurIPS Workshop*, 2022.
+    - [Towards reverse causal inference on panel data: Precise formulation and challenges](https://www.amazon.science/publications/towards-reverse-causal-inference-on-panel-data-precise-formulation-and-challenges), *A Causal View on Dynamical Systems NeurIPS Workshop*, 2022.
     - PhD Candidate in Computer Science, University of Pennsylvania
   - [Mike Van Ness](https://mvanness354.github.io/blog/) 2022.
-    - [Cross-Frequency Time Series Meta-Forecasting] (https://arxiv.org/pdf/2302.02077.pdf), *Technical Report, Preprint: arXiv:2302.02077*, 2023.
+    - [Cross-Frequency Time Series Meta-Forecasting](https://arxiv.org/pdf/2302.02077.pdf), *Technical Report, Preprint: arXiv:2302.02077*, 2023.
     - PhD Candidate in Management Science and Engineering (MSE), Stanford University
   - [Nadim Saad](https://profiles.stanford.edu/nadim-saad) 2021-2022.
     - [Guiding continuous operator learning through Physics-based boundary constraints](https://www.amazon.science/publications/guiding-continuous-operator-learning-through-physics-based-boundary-constraints), *ICLR*, 2023. 
@@ -37,7 +37,7 @@ for Distribution-free Time Series Forecasting](https://proceedings.mlr.press/v15
   - [Xiaoyong Jin](https://scholar.google.com/citations?user=EWiYf7YAAAAJ&hl=en), 2020-2022/
     - [Domain Adaptation for Time Series Forecasting via Attention Sharing](https://proceedings.mlr.press/v162/jin22d/jin22d.pdf), *ICML*, 2022.
     - PhD in Computer Science, University of California, Santa Barbara
-    - I am now managing Xiaoyong since he joined our ML Forecasting team at AWS AI Labs after graduation.
+    - I am now managing Xiaoyong since he joined our ML Forecasting team at AWS AI Labs as an Applied Scientist after graduation.
   - [Rui (Ray) Wang](https://rui1521.github.io/online-cv/ 2020.
     - [Bridging Physics-based and Data-driven modeling for Learning Dynamical Systems](http://proceedings.mlr.press/v144/wang21a/wang21a.pdf), L4DC, 2021.
     - Contributed Talk, Best [Paper](https://assets.amazon.science/d9/d4/f25346d943d38119786518e1c87f/autoode-bridging-physics-based-and-data-driven-modeling-for-covid-19-forecasting.pdf) Award at the NeurIPS, [Machine Learning in Public Health NeurIPS Workshop](https://sites.google.com/nyu.edu/mlph2020/accepted-papers?authuser=0), 2020 
