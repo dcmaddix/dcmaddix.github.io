@@ -9,4 +9,4 @@ paperurl: 'https://www.amazon.science/publications/guiding-continuous-operator-l
 citation: 'Saad N.*, Gupta G.*, Alizadeh S., Maddix D. (2023). &quot;Guiding Continuous Operator Learning through Physics-based boundary constraints.&quot; <i>Proceedings of the International Conference on Learning Representations (ICLR)</i>.'
 ---
 
-[Code Link](https://github.com/amazon-science/boon): Our Boundary enforcing Operator Network (BOON) Code is on the amazon-science github.
+Our Boundary enforcing Operator Network (BOON) [code](https://github.com/amazon-science/boon) is on the amazon-science github.
