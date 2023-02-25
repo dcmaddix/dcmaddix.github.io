@@ -2,7 +2,7 @@
 title: "Neural Time Series Models with GluonTS"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/gluonts
 venue: "International Conference on Machine Learning (ICML) Time Series Workshop"
 date: 2019-06-14
 location: "Long Beach, CA"
