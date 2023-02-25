@@ -3,7 +3,7 @@ title: "Machine Learning University (MLU): Accelerated Time Series Forecasting"
 collection: teaching
 type: "Professional course"
 permalink: /teaching/mlu
-venue: "AWS"
+venue: "Amazon Web Services (AWS)"
 date: 2022-07-23
 location: 
 ---
