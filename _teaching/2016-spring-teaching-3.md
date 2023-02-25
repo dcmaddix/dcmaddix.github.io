@@ -1,9 +1,9 @@
 ---
-title: "ICME Summer Workshop Instructor and Organizer"
+title: "ICME Data Science Summer Workshop Instructor and Organizer"
 collection: teaching
 type: "Professional and student course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Institute of COmputational and Mathematical Engineering, Stanford University"
+permalink: /teaching/icme_data_science_workshop
+venue: "Institute of Computational and Mathematical Engineering, Stanford University"
 date: 2016-08-01
 location: Stanford, CA
 ---
