@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/harmonic_avg
 venue: "SIAM Conference on Mathematical and Computational Issues in the Geosciences 2017"
 date: 2017-09-01
-location: "Erlangen, Germancy"
+location: "Erlangen, Germany"
 ---
 
 [PhD Thesis Research on finite-volume averaged-based methods for nonlinear porous media flow.](https://events.conventus.de/fileadmin/congress/media/siam2017/druckelemente/SIAM2017_Program.pdf)
