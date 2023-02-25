@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Applied Mathematics, University of California, Berkeley, 2012
-* M.S. in Computational and Mathematical Engineering, Stanford University, 2015
 * Ph.D in Computational and Mathematical Engineering, Stanford University, 2018
+* M.S. in Computational and Mathematical Engineering, Stanford University, 2015
+* B.A. in Applied Mathematics, University of California, Berkeley, 2012
 
 Work Experience
 ======
