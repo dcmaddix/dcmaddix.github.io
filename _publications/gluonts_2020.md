@@ -1,7 +1,7 @@
 ---
 title: "GluonTS: Probabilistic and Neural Time Series Modeling in Python"
 collection: publications
-permalink: /publications/gluonts_2020
+permalink: /publications/gluonts
 excerpt:
 date: 2020-04-01
 venue: 'Proceedings of the 39th International Conference on Machine Learning (ICML)'
