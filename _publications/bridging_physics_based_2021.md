@@ -1,7 +1,7 @@
 ---
 title: "Bridging Physics-based and Data-driven modeling for Learning Dynamical Systems"
 collection: publications
-permalink: /publications/bridging_physics_based_2021
+permalink: /publications/autoode
 excerpt:
 date: 2021-06-21
 venue: 'Proceedings of the 3rd Conference on Learning for Dynamics and Control (L4DC)'
