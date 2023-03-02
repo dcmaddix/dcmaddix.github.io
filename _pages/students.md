@@ -26,7 +26,7 @@ I have been fortunate to advise and co-advise several PhD student interns:
     - [Guiding continuous operator learning through Physics-based boundary constraints](https://www.amazon.science/publications/guiding-continuous-operator-learning-through-physics-based-boundary-constraints), *ICLR*, 2023. 
     - [Modeling Advection on Directed Graphs using
 Matérn Gaussian Processes for Traffic Flow](https://arxiv.org/pdf/2201.00001.pdf), *Machine Learning and Physical Sciences NeurIPS Workshop*, 2021.
-    - PhD Candidate in Computational and Mathematical Engineering
+    - PhD Candidate in Computational and Mathematical Engineering, Stanford University
   - [Ke Alexander Wang](https://keawang.github.io/) 2021.
     - [GOPHER: Categorical probabilistic forecasting with graph structure via local continuous-time dynamics](https://proceedings.mlr.press/v163/wang22a/wang22a.pdf), *Spotlight at the ICBINB NeurIPS Workshop*, 2022.
     -   PhD Candidate in Computer Science, Stanford University
