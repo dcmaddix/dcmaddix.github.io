@@ -1,7 +1,7 @@
 ---
 title: "Numerical Artifacts in the Generalized Porous Medium Equation: Why harmonic averaging itself is not to blame"
 collection: publications
-permalink: /publications/GPME_harmonic
+permalink: /publications/GPME_harmonic_avg
 excerpt: 
 date: 2018-05-15
 venue: 'Journal of Computational Physics'
