@@ -11,5 +11,7 @@ citation: 'Tezaur, I.K., Fike, J., Carlberg, K., Barone, M., Maddix, D.C., Musso
 
 *Chapter 5: Structure preservation in finite volume ROMs via physics-based constraints*
 
-I researched adding conservation and total variation diminishing (TVD) constraints to ROMs to make the low-dimensional ROM solution be physically meaningful (conservative) and remove artifical oscillations.
+I researched adding conservation and total variation diminishing (TVD) constraints to ROMs to make the low-dimensional ROM solution be physically meaningful (conservative) and remove artifical oscillations, respectively.
+
+
 We test on the nonlinear hyperbolic conservation laws: Burgers' equation and Sod's shock tube problem.
