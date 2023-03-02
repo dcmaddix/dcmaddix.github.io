@@ -1,7 +1,7 @@
 ---
 title: "Guiding Continuous Operator Learning through Physics-based boundary constraints"
 collection: publications
-permalink: /publications/neural_operator_bc
+permalink: /publications/boon
 excerpt:
 date: 2023-01-01
 venue: 'Proceedings of the International Conference on Learning Representations (ICLR)'
