@@ -13,6 +13,11 @@ I have been fortunate to advise and co-advise several PhD student interns:
     - [Learning Physical Models that Can Respect Conservation Laws](https://arxiv.org/pdf/2302.11002.pdf), *Technical Report, Preprint: arXiv:2302.11002*, In submission, 2023.
     - PhD Candidate in Statistics and Scientific Computing, University of Michigan
     - Collaborated with Professor [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/), University of California, Berkeley
+  - [Nadim Saad](https://profiles.stanford.edu/nadim-saad) 2021-2022.
+    - [Guiding continuous operator learning through Physics-based boundary constraints](https://www.amazon.science/publications/guiding-continuous-operator-learning-through-physics-based-boundary-constraints), *ICLR*, 2023. 
+    - [Modeling Advection on Directed Graphs using
+Matérn Gaussian Processes for Traffic Flow](https://arxiv.org/pdf/2201.00001.pdf), *Machine Learning and Physical Sciences NeurIPS Workshop*, 2021.
+    - PhD Candidate in Computational and Mathematical Engineering, Stanford University
   - [Xiyuan Zhang](https://xiyuanzh.github.io/) 2022.
     - [First De-Trend then Attend: Rethinking Attention for Time-Series Forecasting](https://arxiv.org/pdf/2212.08151.pdf), *All Things Attention: Bridging Different Perspectives on Attention NeurIPS Workshop*, 2022.
     - PhD Candidate in Computer Science and Engineering (CSE), University of California, San Diego
@@ -22,11 +27,6 @@ I have been fortunate to advise and co-advise several PhD student interns:
   - [Mike Van Ness](https://mvanness354.github.io/blog/) 2022.
     - [Cross-Frequency Time Series Meta-Forecasting](https://arxiv.org/pdf/2302.02077.pdf), *Technical Report, Preprint: arXiv:2302.02077*, 2023.
     - PhD Candidate in Management Science and Engineering (MSE), Stanford University
-  - [Nadim Saad](https://profiles.stanford.edu/nadim-saad) 2021-2022.
-    - [Guiding continuous operator learning through Physics-based boundary constraints](https://www.amazon.science/publications/guiding-continuous-operator-learning-through-physics-based-boundary-constraints), *ICLR*, 2023. 
-    - [Modeling Advection on Directed Graphs using
-Matérn Gaussian Processes for Traffic Flow](https://arxiv.org/pdf/2201.00001.pdf), *Machine Learning and Physical Sciences NeurIPS Workshop*, 2021.
-    - PhD Candidate in Computational and Mathematical Engineering, Stanford University
   - [Ke Alexander Wang](https://keawang.github.io/) 2021.
     - [GOPHER: Categorical probabilistic forecasting with graph structure via local continuous-time dynamics](https://proceedings.mlr.press/v163/wang22a/wang22a.pdf), *Spotlight at the ICBINB NeurIPS Workshop*, 2022.
     -   PhD Candidate in Computer Science, Stanford University
