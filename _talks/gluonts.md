@@ -10,7 +10,7 @@ location: "Long Beach, CA"
 
 [ICML Time Series Workshop Talk](https://slideslive.com/38917683/neural-time-series-models-with-gluonts)
 
-Here we describe our [GluonTS](https://github.com/awslabs/gluonts) open-source package for probabilistic time series modeling in Python. It contains both classical state space models and deep learning models.
+Here we describe our [GluonTS](https://github.com/awslabs/gluonts) open-source Python package for probabilistic time series modeling. It contains both classical state space models and deep learning models.
 
 I also presented on GluonTS at the following venues:
   - The Amazon Conference for Machine Learning (AMLC) in Seattle in July 2019
