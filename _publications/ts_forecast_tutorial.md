@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning For Time Series Forecasting: Tutorial and Literature Survey"
 collection: publications
-permalink: /publications/ts_literaure_survey
+permalink: /publications/deep_learning_ts
 excerpt:
 date: 2022-12-07
 venue: 'ACM Computing Surveys'
