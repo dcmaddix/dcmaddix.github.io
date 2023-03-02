@@ -8,7 +8,7 @@ date: 2017-09-01
 location: "Erlangen, Germany"
 ---
 
-[PhD Thesis Research on finite-volume averaged-based methods for nonlinear porous media flow.](https://events.conventus.de/fileadmin/congress/media/siam2017/druckelemente/SIAM2017_Program.pdf)
+[PhD Thesis Research on finite-volume averaged-based methods for nonlinear porous media flow](https://events.conventus.de/fileadmin/congress/media/siam2017/druckelemente/SIAM2017_Program.pdf)
 
 ## Abstract
 
