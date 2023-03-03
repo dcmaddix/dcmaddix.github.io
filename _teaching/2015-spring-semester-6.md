@@ -12,5 +12,5 @@ I was one of a few undergraduate student instructors selected in the University 
 
 I taught the following courses:
   - [Math 16B](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math16B), introductory calculus II course for life science majors in the Spring semester 2011.
-  - [Math 54](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54) Linear Algebra and Differential Equations in the Fall semester 2011.
-  - [Math 1B](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math1B) Calculus II, which covered integration and differential equations in the Spring semester 2012.
+  - [Math 54](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54) Linear Algebra and Differential Equations for math and engineering majors in the Fall semester 2011.
+  - [Math 1B](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math1B) Calculus II, which covered integration and differential equations for math and engineering majors in the Spring semester 2012.
