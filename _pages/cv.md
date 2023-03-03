@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational and Mathematical Engineering, Stanford University, 2018
+* Ph.D. in Computational and Mathematical Engineering, Stanford University, 2018
 * M.S. in Computational and Mathematical Engineering, Stanford University, 2015
 * B.A. in Applied Mathematics, University of California, Berkeley, 2012
 
@@ -20,16 +20,16 @@ Work Experience
 * March 2021 - Present: Senior Applied Scientist, AWS AI Labs, Amazon Web Services (AWS)
   * I am leading the DeepEarth research team to develop novel physics-constrained machine learning solutions for computational fluid dynamics (CFD) and earth science applications as well as developing foundation models for weather forecasting.
 * September 2018 - March 2021: Applied Scientist II, AWS AI Labs, Amazon Web Services (AWS)
-  * I worked on developing, implementing and researching novel probabilistic deep learning models for time series forecasting in the open-source package [GluonTS](https://github.com/awslabs/gluonts) and leading the productionalization effort Amazon Forecast.
+  * I worked on developing, implementing and researching novel probabilistic deep learning models for time series forecasting in the open-source package [GluonTS](https://github.com/awslabs/gluonts) and leading the productionalization effort of these algorithms for Amazon Forecast.
 * March 2016 - June 2018: Research Associate, Stanford University
   * In my PhD research, I worked with Professor Gerritsen in developing accurate and stable methods, as well as computationally efficient algorithms, for modeling flow through porous media. These methods are designed to accurately represent the underlying physics, and remove numerical artifacts associated with current state-of-the-art finite volume discretizations.
   * Advisor: Professor Margot Gerritsen
 * June 2017 - September 2017: Extreme-Scale Data Analytics Intern
-  * Developed physics-constrained (structure preserving) reduced order models (ROMs) for computationally expensive high fidelity models in computational fluid dynamics. 
+  * I developed physics-constrained (structure preserving) reduced order models (ROMs) for computationally expensive high fidelity models in computational fluid dynamics. 
 * June 2015 - September 2015: CUDA Software Engineer Intern, NVIDIA
-  * Developed efficient parallel algorithms for sparse matrix vector multiplication (spmv) on the GPU for CUDA toolkit libraries, including cuSPARSE and nvGRAPH. Worked on problems in graph analytics, including utilizing the spmv to accelerate the pagerank, maximum flow and single source shortest path algorithms.
+  * I developed efficient parallel algorithms for sparse matrix vector multiplication (spmv) on the GPU for CUDA toolkit libraries, including [cuSPARSE](https://docs.nvidia.com/cuda/cusparse/) and [nvGRAPH](https://developer.nvidia.com/nvgraph). I also worked on problems in graph analytics, including utilizing the spmv to accelerate the pagerank, maximum flow and single source shortest path algorithms.
 * May 2012 - June 2015: Computational Researcher, Lawrence Berkeley National Laboratory (LBL)
-  * Worked in the Computational Research Division under Professor James Sethian, applying multiphase flow algorithms using the Voronoi Implicit Interface Method (VIIM) to shape optimization problems.
+  * I worked in the Computational Research Division under Professor James Sethian, applying multiphase flow algorithms using the Voronoi Implicit Interface Method (VIIM) to shape optimization problems.
   
 Publications
 ======
@@ -51,7 +51,7 @@ Teaching
   
 Awards and Honors
 ======
-* December 2020: Best Paper Award: Machine Learning in Public Health NeurIPS 2020 Workshop
+* December 2020: Best Paper Award, Machine Learning in Public Health NeurIPS 2020 Workshop
   *  *AutoODE: Bridging Physics-based and Data-driven modeling for COVID-19 Forecasting*
 * May 2018: ICME Outstanding Leadership Award
 * May 2018: Senior Teaching Fellow
@@ -65,6 +65,7 @@ Awards and Honors
 
 Service and leadership
 ======
+* 2023: Presented at Daves Avenue Elementary School Science Fair on ["Mathematics in Science"](https://docs.google.com/presentation/d/1upvbO5rGCiXTDw-cFhTRZUlAISjI8O-3/edit?usp=sharing&ouid=112184455899852749897&rtpof=true&sd=true)
 * 2022-Present: Reviewer, *Reviewer, Nature Machine Intelligence, AISTATS*
 * 2021-Present: Reviewer, *Conference on Neural Information Processing Systems (NeurIPS)*
 * 2019-Present: Reviewer, *International Conference on Machine Learning (ICML)*
