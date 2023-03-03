@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Student Instructor (UGSI) for Math 16B, 53-54"
+title: "Undergraduate Student Instructor (UGSI) for Math 16B, 54, 1B"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ugsi_berkeley
