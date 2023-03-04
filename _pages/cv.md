@@ -66,7 +66,7 @@ Awards and Honors
 Service and leadership
 ======
 * 2023: Presented at Daves Avenue Elementary School Science Fair on ["Mathematics in Science"](https://drive.google.com/file/d/168kDOQXnGrK811CB6NXhXUkPUiOxLc2j/view)
-* 2022-Present: Reviewer, *Reviewer, Nature Machine Intelligence, AISTATS*
+* 2022-Present: Reviewer, *Nature Machine Intelligence, AISTATS*
 * 2021-Present: Reviewer, *Conference on Neural Information Processing Systems (NeurIPS)*
 * 2019-Present: Reviewer, *International Conference on Machine Learning (ICML)*
 * 2016-Present: Reviewer, *Journal of Computational Physics, Science Advances*
