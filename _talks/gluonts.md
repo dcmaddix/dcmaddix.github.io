@@ -14,7 +14,6 @@ Here we describe our [GluonTS](https://github.com/awslabs/gluonts) open-source P
 
 I also presented on GluonTS at the following venues:
   - The Amazon Conference for Machine Learning (AMLC) in Seattle in July 2019
-  - The Mayo Clinic
   - Time Series Meetup hosted by Meta in June 2022, which included our latest research:
     - [Incremental Quantile Function (IQF)](https://proceedings.mlr.press/v151/park22a.html)
     - [Domain Adaptation Forecaster (DAF)](https://proceedings.mlr.press/v162/jin22d/jin22d.pdf)
