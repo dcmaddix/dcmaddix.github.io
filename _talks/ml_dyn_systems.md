@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/ml_and_dyn_sys
 venue: "Machine Learning and Dynamical Systems Seminar, Alan Turing Institute"
-date: 2023-04-28
+date: 2023-04-13
 location: "London, England"
 ---
 
