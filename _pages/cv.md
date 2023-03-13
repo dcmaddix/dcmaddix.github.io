@@ -27,7 +27,7 @@ Work Experience
 * June 2017 - September 2017: Extreme-Scale Data Analytics Intern
   * I developed physics-constrained (structure preserving) reduced order models (ROMs) for computationally expensive high fidelity models in computational fluid dynamics. 
 * June 2015 - September 2015: CUDA Software Engineer Intern, NVIDIA
-  * I developed efficient parallel algorithms for sparse matrix vector multiplication (spmv) on the GPU for CUDA toolkit libraries, including [cuSPARSE](https://docs.nvidia.com/cuda/cusparse/) and [nvGRAPH](https://developer.nvidia.com/nvgraph). I also worked on problems in graph analytics, including utilizing the spmv to accelerate the pagerank, maximum flow and single source shortest path algorithms.
+  * I developed efficient parallel algorithms for sparse matrix vector multiplication (spmv) on the GPU for CUDA toolkit libraries, including [cuSPARSE](https://docs.nvidia.com/cuda/cusparse/) and [nvGRAPH](https://github.com/rapidsai/nvgraph/blob/main/Acknowledgements.md). I also worked on problems in graph analytics, including utilizing the spmv to accelerate the pagerank, maximum flow and single source shortest path algorithms.
 * May 2012 - June 2015: Computational Researcher, Lawrence Berkeley National Laboratory (LBL)
   * I worked in the Computational Research Division under Professor James Sethian, applying multiphase flow algorithms using the Voronoi Implicit Interface Method (VIIM) to shape optimization problems.
   
