@@ -9,7 +9,7 @@ redirect_from:
 
 
 I have been fortunate to advise and co-advise several PhD student interns:
-  - [Derek Hansen](http://www-personal.umich.edu/~dereklh/) 2022
+  - [Derek Hansen](http://www-personal.umich.edu/~dereklh/) 2022-2023
     - [Learning Physical Models that Can Respect Conservation Laws](https://arxiv.org/pdf/2302.11002.pdf), *Technical Report, Preprint: arXiv:2302.11002*, In submission, 2023.
     - PhD Candidate in Statistics and Scientific Computing, University of Michigan
     - Collaborated with Professor [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/), University of California, Berkeley
@@ -18,10 +18,10 @@ I have been fortunate to advise and co-advise several PhD student interns:
     - [Modeling Advection on Directed Graphs using
 Matérn Gaussian Processes for Traffic Flow](https://arxiv.org/pdf/2201.00001.pdf), *Machine Learning and Physical Sciences NeurIPS Workshop*, 2021.
     - PhD Candidate in Computational and Mathematical Engineering, Stanford University
-  - [Xiyuan Zhang](https://xiyuanzh.github.io/) 2022
+  - [Xiyuan Zhang](https://xiyuanzh.github.io/) 2022-2023
     - [First De-Trend then Attend: Rethinking Attention for Time-Series Forecasting](https://arxiv.org/pdf/2212.08151.pdf), *All Things Attention: Bridging Different Perspectives on Attention NeurIPS Workshop*, 2022.
     - PhD Candidate in Computer Science and Engineering (CSE), University of California, San Diego
-  - [Jiayao Zhang](https://jiayao-zhang.com/) 2022
+  - [Jiayao Zhang](https://jiayao-zhang.com/) 2022-2023
     - [Towards reverse causal inference on panel data: Precise formulation and challenges](https://www.amazon.science/publications/towards-reverse-causal-inference-on-panel-data-precise-formulation-and-challenges), *A Causal View on Dynamical Systems NeurIPS Workshop*, 2022.
     - PhD Candidate in Computer Science, University of Pennsylvania
   - [Mike Van Ness](https://mvanness354.github.io/blog/) 2022
