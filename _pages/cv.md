@@ -18,7 +18,7 @@ Education
 Work Experience
 ======
 * March 2021 - Present: Senior Applied Scientist, AWS AI Labs, Amazon Web Services (AWS)
-  * I am leading the DeepEarth research team to develop novel physics-constrained machine learning solutions for computational fluid dynamics (CFD) and earth science applications as well as developing foundation models for probabilistic weather forecasting.
+  * I am leading the DeepEarth research team to develop novel physics-constrained machine learning solutions for computational fluid dynamics (CFD) and earth science applications.
 * September 2018 - March 2021: Applied Scientist II, AWS AI Labs, Amazon Web Services (AWS)
   * I worked on developing, implementing and researching novel probabilistic deep learning models for time series forecasting in the open-source package [GluonTS](https://github.com/awslabs/gluonts) and leading the productionalization effort of these algorithms for Amazon Forecast.
 * March 2016 - June 2018: Research Associate, Stanford University
