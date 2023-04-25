@@ -12,9 +12,7 @@ I am interested in the intersection of machine learning and scientific computing
 
 
 ## News
-- Our two papers on physics-constrained machine learning were accepted at ICML 2023 and ICLR 2023:
-   - ["Learning Physical Models that Can Respect Conservation Laws"](https://arxiv.org/abs/2302.11002)
-   - ["Guiding continuous operator learning through Physics-based boundary constraints"](https://arxiv.org/abs/2212.07477)
-- Our paper on the "Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting" was accepted at ICML 2023.
+- Our two papers on physics-constrained machine learning were accepted at ICML 2023 and ICLR 2023 on [https://arxiv.org/abs/2302.11002](satisfying conservation laws) and [boundary conditions](https://arxiv.org/abs/2212.07477), respectively.
 - I gave an invited talk at the Machine Learning and Dynamical Systems Seminar at the Alan Turing Institute on ["Physics-constrained Machine Learning for Scientific Computing"](https://www.youtube.com/watch?v=ag5qEEYTNFg).
+- Our paper on the theoretical guarantees of ensembling for time series forecasting was accepted at ICML 2023.
 - Our paper on [forecasting the spread of COVID-19](https://www.amazon.science/blog/paper-on-forecasting-spread-of-covid-19-wins-best-paper-award) wont he **Best Paper Award** at the Machine Learning and Public Health NeurIPS workshop in 2020.
