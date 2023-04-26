@@ -37,7 +37,6 @@ for Distribution-free Time Series Forecasting](https://proceedings.mlr.press/v15
   - [Xiaoyong Jin](https://scholar.google.com/citations?user=EWiYf7YAAAAJ&hl=en), 2020-2022
     - [Domain Adaptation for Time Series Forecasting via Attention Sharing](https://proceedings.mlr.press/v162/jin22d/jin22d.pdf), *ICML*, 2022.
     - PhD in Computer Science, University of California, Santa Barbara
-    - I am now managing Xiaoyong since he joined our ML Forecasting team at AWS AI Labs as an Applied Scientist after graduation.
   - [Rui (Ray) Wang](https://rui1521.github.io/online-cv/) 2020.
     - [Bridging Physics-based and Data-driven modeling for Learning Dynamical Systems](http://proceedings.mlr.press/v144/wang21a/wang21a.pdf), L4DC, 2021.
     - Contributed Talk, Best [Paper](https://assets.amazon.science/d9/d4/f25346d943d38119786518e1c87f/autoode-bridging-physics-based-and-data-driven-modeling-for-covid-19-forecasting.pdf) Award at the NeurIPS, [Machine Learning in Public Health NeurIPS Workshop](https://sites.google.com/nyu.edu/mlph2020/accepted-papers?authuser=0), 2020. 
