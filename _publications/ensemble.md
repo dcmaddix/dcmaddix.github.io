@@ -5,5 +5,5 @@ permalink: /publications/ensemble
 excerpt:
 date: 2023-02-21
 venue: 'Proceedings of the 40th International Conference on Machine Learning (ICML)'
-citation: 'Hasson, H., Maddix, D.C., Wang, Y., Park, Y., Gupta, G., (2023). &quot;Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting.&quot; <i>Accepted for publication, Proceedings of the 40th International Conference on Machine Learning (ICML), 2023</i>.'
+citation: 'Hasson, H., Maddix, D.C., Wang, Y., Park, Y., Gupta, G., (2023). &quot;Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting.&quot; <i>Proceedings of the 40th International Conference on Machine Learning (ICML), PMLR 202, 2023</i>.'
 ---
