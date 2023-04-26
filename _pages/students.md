@@ -10,7 +10,7 @@ redirect_from:
 
 I have been fortunate to advise and co-advise several PhD student interns:
   - [Derek Hansen](http://www-personal.umich.edu/~dereklh/) 2022-2023
-    - [Learning Physical Models that Can Respect Conservation Laws](https://arxiv.org/pdf/2302.11002.pdf), *Technical Report, Preprint: arXiv:2302.11002*, In submission, 2023.
+    - [Learning Physical Models that Can Respect Conservation Laws](https://arxiv.org/pdf/2302.11002.pdf), *ICML*, 2023.
     - PhD Candidate in Statistics and Scientific Computing, University of Michigan
     - Collaborated with Professor [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/), University of California, Berkeley
   - [Nadim Saad](https://profiles.stanford.edu/nadim-saad) 2021-2022
