@@ -8,7 +8,7 @@ date: 2019-06-14
 location: "Long Beach, CA"
 ---
 
-[ICML Time Series Workshop Talk](https://slideslive.com/38917683/neural-time-series-models-with-gluonts)
+[ICML Time Series Workshop Talk](https://slideslive.com/38917683/neural-time-series-models-with-gluonts) with corresponding [youtube link](https://www.youtube.com/watch?v=beEJMIt9xJ8) on GluonTS.
 
 Here we describe our [GluonTS](https://github.com/awslabs/gluonts) open-source Python package for probabilistic time series modeling. It contains both classical state space models and deep learning models.
 
