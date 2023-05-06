@@ -8,4 +8,4 @@ date: 2023-07-24
 location: Stanford, CA
 ---
 
-I am teaching the Introduction to Statistics course at the [2023 ICME Summer Workshops: Fundamentals of Data Science](https://icme.stanford.edu/events/workshop/icme-summer-workshops-2023-fundamentals-data-science), which covers the fundamentals of data science for Stanford students and professionals in industry internationally.
+I am teaching the Introduction to Statistics course at the [2023 ICME Summer Workshops Fundamentals of Data Science](https://icme.stanford.edu/events/workshop/icme-summer-workshops-2023-fundamentals-data-science), which covers the fundamentals of data science for Stanford students and professionals in industry internationally.
