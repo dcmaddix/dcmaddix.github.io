@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/cme292
 venue: "Stanford University"
-date: 2016-09-01
+date: 2016-09-01-2018-05-28
 location: "Stanford, CA"
 ---
 
