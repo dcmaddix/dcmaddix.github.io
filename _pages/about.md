@@ -13,7 +13,7 @@ I am interested in the intersection of machine learning and scientific computing
 
 ## News
 - Our two papers on **physics-constrained machine learning** were accepted at ICML 2023 and ICLR 2023 on satisfying [conservation laws](https://arxiv.org/abs/2302.11002) and [boundary conditions](https://www.amazon.science/publications/guiding-continuous-operator-learning-through-physics-based-boundary-constraints), respectively.
-- I gave an invited talk at the [Machine Learning and Dynamical Systems Seminar](https://www.turing.ac.uk/research/interest-groups/machine-learning-and-dynamical-systems) at the Alan Turing Institute on ["Physics-constrained Machine Learning for Scientific Computing"](https://www.youtube.com/watch?v=ag5qEEYTNFg).
+- I gave an invited talk on ["Physics-constrained Machine Learning for Scientific Computing"](https://www.youtube.com/watch?v=ag5qEEYTNFg) at the [Machine Learning and Dynamical Systems Seminar](https://www.turing.ac.uk/research/interest-groups/machine-learning-and-dynamical-systems) at the Alan Turing Institute.
 - Our paper on the theoretical guarantees of ensembling for time series forecasting was accepted at ICML 2023.
 - Our papers on [domain adaptation](https://proceedings.mlr.press/v162/jin22d/jin22d.pdf) and [eliminating quantile crossing](https://proceedings.mlr.press/v151/park22a/park22a.pdf) for time series forecasting were accepted at ICML 2022 and AISTATS 2022, respectively.
 - Our paper on [forecasting the spread of COVID-19](http://proceedings.mlr.press/v144/wang21a/wang21a.pdf) won the [**Best Paper Award**](https://www.amazon.science/blog/paper-on-forecasting-spread-of-covid-19-wins-best-paper-award) at the Machine Learning and Public Health NeurIPS workshop in 2020 and was accepted at L4DC 2021.
