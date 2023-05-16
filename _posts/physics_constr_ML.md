@@ -1,6 +1,6 @@
 ---
-title: 'A Lasting Legacy in Math and Science'
-date: 2022-06-01
+title: 'Physics-constrained machine learning for scientific computing'
+date: 2023-16-05
 permalink: /posts/physics_constrained_ML
 tags:
   - numerical methods
