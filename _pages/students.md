@@ -9,6 +9,8 @@ redirect_from:
 
 
 I have been fortunate to advise and co-advise several PhD student interns:
+  - [Shigeng Sun](https://shigengsun.github.io/) 2023
+    - PhD Candidate in Applied Mathematics, Northwestern University
   - [S Chandra Mouli](http://schandramouli.weebly.com/) 2023
     - PhD Candidate in Computer Science, Purdue University
   - [Shikai Qiu](https://shikaiqiu.github.io/) 2023
