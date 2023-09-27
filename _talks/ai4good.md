@@ -1,5 +1,5 @@
 ---
-title: "Physics-constrained Machine Learning with Applications to Earth and Sustainability Science"
+title: "Physics-constrained Machine Learning for Earth and Sustainability Science"
 collection: talks
 type: "Talk"
 permalink: /talks/ai4good
