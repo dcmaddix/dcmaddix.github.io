@@ -7,4 +7,4 @@ venue: "Amazon Science"
 date: 2023-11-08
 ---
 
-In this panel, we discuss challenges for women in STEM and how to persevere, internship mentoring opportunities and the future uses of machine learning in science.
+In this [panel](https://drive.google.com/file/d/1NVRWjXX386jy2idc5p2O79ydiOtEQwg_/view?usp=sharing), we discuss challenges for women in STEM and how to persevere, internship mentoring opportunities and the future uses of machine learning in science.
