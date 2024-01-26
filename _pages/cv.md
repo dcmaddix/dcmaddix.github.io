@@ -65,7 +65,7 @@ Awards and Honors
 
 Service and leadership
 ======
-* 2024: Lead organizer of the ICLR 2024 Workshop on [AI4DifferentialEquations In Science](https://ai4diffeqtnsinsci.github.io/)
+* 2024: Lead organizer of the [ICLR 2024 Workshop on AI4DifferentialEquations In Science](https://ai4diffeqtnsinsci.github.io/)
 * 2023: Presented at Daves Avenue Elementary School Science Fair on ["Mathematics in Science"](https://drive.google.com/file/d/168kDOQXnGrK811CB6NXhXUkPUiOxLc2j/view)
 * 2022-Present: Reviewer, *Nature Machine Intelligence, AISTATS*
 * 2021-Present: Reviewer, *Conference on Neural Information Processing Systems (NeurIPS)*
