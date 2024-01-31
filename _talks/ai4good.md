@@ -8,7 +8,7 @@ date: 2024-01-31
 location: "Virtual"
 ---
 
-Please find the recording for my talk on "Physics-constrained Machine Learning for Earth and Sustainability Science" at the [2nd AI for Good Webinar Series for AI for Earth and Sustainability Science](https://aiforgood.itu.int/event/physics-constrained-machine-learning-for-scientific-computing/)[here]:(https://www.youtube.com/watch?v=qflj9ZPL1vo). My talk covers covers our following four research works in various scientific disciplines from epidemiology to weather and climate:
+My talk on ["Physics-constrained Machine Learning for Earth and Sustainability Science"](https://www.youtube.com/watch?v=qflj9ZPL1vo) at the [2nd AI for Good Webinar Series for AI for Earth and Sustainability Science](https://aiforgood.itu.int/event/physics-constrained-machine-learning-for-scientific-computing/) covers our following four research works in various scientific disciplines from epidemiology to weather and climate:
   - [Bridging Physics-based and Data-driven modeling for Learning Dynamical Systems](http://proceedings.mlr.press/v144/wang21a/wang21a.pdf), L4DC, 2021.
   - [Learning Physical Models that Can Respect Conservation Laws](https://arxiv.org/pdf/2302.11002.pdf), Physica D: Nonlinear Phenomena, 2024, ICML, 2023.
   - [Guiding Continuous Operator Learning through Physics-based boundary constraints](https://www.amazon.science/publications/guiding-continuous-operator-learning-through-physics-based-boundary-constraints), ICLR, 2023.
