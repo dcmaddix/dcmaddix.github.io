@@ -9,8 +9,8 @@ redirect_from:
 
 
 I have been fortunate to advise and co-advise over 10 PhD student interns:
-  - [Shigeng Sun](https://shigengsun.github.io/) 2023
-    - PhD Candidate in Applied Mathematics, Northwestern University
+  - [Matthias Karlbauer](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-modeling/staff/matthias-karlbauer/) 2023
+    - PhD Candidate in Computer Science, University of Tübingen
   - [S Chandra Mouli](http://schandramouli.weebly.com/) 2023
     - PhD Candidate in Computer Science, Purdue University
   - [Shikai Qiu](https://shikaiqiu.github.io/) 2023
