@@ -65,7 +65,7 @@ Awards and Honors
 
 Service and leadership
 ======
-* 2024: Lead organizer of the [ICLR 2024 Workshop on AI4DifferentialEquations In Science](https://ai4diffeqtnsinsci.github.io/)
+* 2024: Lead organizer, area chair and program chair of the [ICLR 2024 Workshop on AI4DifferentialEquations In Science](https://ai4diffeqtnsinsci.github.io/)
 * 2023-Present: Reviewer, *International Conference on Learning Representations (ICLR)*
 * 2023-Present: Reviewer, *SIAM Journal on Scientific Computing (SISC)*
 * 2023: Presented at Daves Avenue Elementary School Science Fair on ["Mathematics in Science"](https://drive.google.com/file/d/168kDOQXnGrK811CB6NXhXUkPUiOxLc2j/view)
