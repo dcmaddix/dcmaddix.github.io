@@ -12,7 +12,7 @@ I am interested in the intersection of machine learning and scientific computing
 
 
 ## News
-- We are hosting a [ICLR 2024 Workshop on AI4DifferentialEquations In Science](https://ai4diffeqtnsinsci.github.io/)!
+- We are hosting a [ICLR 2024 Workshop on AI4DifferentialEquations In Science](https://iclr.cc/virtual/2024/workshop/20581)!
 - I gave an invited talk on ["Physics-constrained Machine Learning for Earth and Sustainability Science"](https://www.youtube.com/watch?v=qflj9ZPL1vo) at the [2nd AI for Good Webinar Series for AI for Earth and Sustainability Science](https://aiforgood.itu.int/event/physics-constrained-machine-learning-for-scientific-computing/).
 - I gave an invited talk on ["Physics-constrained Machine Learning for Scientific Computing"](https://www.youtube.com/watch?v=ag5qEEYTNFg) at the [Machine Learning and Dynamical Systems Seminar](https://www.turing.ac.uk/research/interest-groups/machine-learning-and-dynamical-systems) at the Alan Turing Institute with the highest number of views and a corresponding amazon science [blog](https://www.amazon.science/blog/physics-constrained-machine-learning-for-scientific-computing).
 - Our two papers on **physics-constrained machine learning** were accepted at ICML 2023 and ICLR 2023 on satisfying [conservation laws](https://www.amazon.science/publications/learning-physical-models-that-can-respect-conservation-laws) and [boundary conditions](https://www.amazon.science/publications/guiding-continuous-operator-learning-through-physics-based-boundary-constraints), respectively.
