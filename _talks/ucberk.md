@@ -9,3 +9,5 @@ location: "University of California, Berkeley"
 ---
 
 I will be giving a guest lecture in Professor Krishnapriyan's advanced Computer Science 294 graduate course on Physics Inspired Deep Learning.
+
+Please find my slides [here](https://drive.google.com/file/d/1T_uDqewqEu1zhmI5kuWVJy90b65ngKEt/view?usp=sharing).
