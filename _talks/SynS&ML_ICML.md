@@ -8,4 +8,4 @@ date: 2024-07-26
 location: "Vienna, Austria"
 ---
 
-I gave an [invited talk](https://icerm.brown.edu/video_archive/?play=3540) at the [2nd ICML Workshop on the Synergy of Scientific Machine Learning Modeling (SynS & ML)](https://syns-ml.github.io/2023/).
+I will be giving an invited at the [2nd ICML Workshop on the Synergy of Scientific Machine Learning Modeling (SynS & ML)](https://syns-ml.github.io/2023/).
