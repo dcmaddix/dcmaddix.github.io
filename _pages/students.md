@@ -9,11 +9,23 @@ redirect_from:
 
 
 I have been fortunate to advise and co-advise over 10 PhD student interns:
-  - [Matthias Karlbauer](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-modeling/staff/matthias-karlbauer/) 2023
+  - [Chaoran Cheng](https://ccr-cheng.github.io/) 2024
+    - PhD Candidate in Computer Science, University of Illinois Urbana-Champaign
+  - [Utkarsh .](https://utkarsh530.github.io/) 2024
+    - PhD Candidate in Computational Science and Engineering, MIT
+  - [Luca Masserano](https://lucamasserano.github.io/) 2024
+    - PhD Candidate in Statistics and Machine Learning, Carnegie Mellon University
+  - [Matthias Karlbauer](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-modeling/staff/matthias-karlbauer/) 2023-2024
+    - [Comparing and Contrasting Deep Learning Weather Prediction
+Backbones on Navier-Stokes and Atmospheric Dynamics](https://arxiv.org/pdf/2407.14129), *AI4DifferentialEquations In Science ICLR Workshop*, 2024.
     - PhD Candidate in Computer Science, University of Tübingen
   - [S Chandra Mouli](http://schandramouli.weebly.com/) 2023
+    - [Using Uncertainty Quantification to Characterize and Improve
+Out-of-Domain Learning for PDEs](https://arxiv.org/pdf/2403.10642), *ICML*, 2024.
     - PhD Candidate in Computer Science, Purdue University
   - [Shikai Qiu](https://shikaiqiu.github.io/) 2023
+    - [Transferring Knowledge from
+Large Foundation Models to Small Downstream Models](https://arxiv.org/pdf/2406.07337), *ICML*, 2024. 
     - PhD Candidate in Computer Science, NYU Courant
   - [Derek Hansen](http://www-personal.umich.edu/~dereklh/) 2022-2023
     - [Learning Physical Models that Can Respect Conservation Laws](https://arxiv.org/pdf/2302.11002.pdf), *ICML*, 2023.
