@@ -15,7 +15,7 @@ I have been fortunate to advise and co-advise over 10 PhD student interns:
   - [Utkarsh .](https://utkarsh530.github.io/) 2024
     - PhD Candidate in Computational Science and Engineering, MIT
   - [Luca Masserano](https://lucamasserano.github.io/) 2024
-    - [Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization]([https://arxiv.org/pdf/2412.01786?](https://arxiv.org/pdf/2412.05244)), *Under Review*.  
+    - [Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization](https://arxiv.org/pdf/2412.05244), *Under Review*.  
     - PhD Candidate in Statistics and Machine Learning, Carnegie Mellon University
   - [Matthias Karlbauer](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-modeling/staff/matthias-karlbauer/) 2023-2024
     - [Comparing and Contrasting Deep Learning Weather Prediction
