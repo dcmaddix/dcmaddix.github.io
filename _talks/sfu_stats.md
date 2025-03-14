@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/sfu_stats_seminar
 venue: "Simon Fraser University (SFU) Statistics Seminar"
-date: 2024-12-15
+date: 2025-03-14
 location: "Vancouver, Canada"
 ---
 
