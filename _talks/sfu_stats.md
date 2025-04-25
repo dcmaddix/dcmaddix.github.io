@@ -8,4 +8,4 @@ date: 2025-03-14
 location: "Vancouver, Canada"
 ---
 
-I will be giving an invited talk at the Simon Fraser University (SFU) Statistics graduate seminar.
+I will be giving an invited talk at the (Simon Fraser University (SFU) Statistics graduate seminar)[https://www.sfu.ca/stat-actsci/research/seminars/24-25Seminars/danielle-maddix/].
