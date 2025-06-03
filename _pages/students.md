@@ -13,7 +13,7 @@ I have been fortunate to advise and co-advise over 10 PhD student interns:
     - [Gradient-Free Generation for Hard-Constrained Systems](https://arxiv.org/pdf/2412.01786?), *ICLR*, 2025. 
     - PhD Candidate in Computer Science, University of Illinois Urbana-Champaign
   - [Utkarsh .](https://utkarsh530.github.io/) 2024
-    - End-to-End Probabilistic Framework for Learning with Hard Constraints, *In Submission*.
+    - End-to-End Probabilistic Framework for Learning with Hard Constraints, *In Submission*, 2025.
     - PhD Candidate in Computational Science and Engineering, MIT
   - [Luca Masserano](https://lucamasserano.github.io/) 2024
     - [Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization](https://arxiv.org/pdf/2412.05244), *ICML*, 2025.  
