@@ -8,4 +8,4 @@ date: 2025-06-25
 location: "Berkeley, CA"
 ---
 
-I will be giving an invited talk and tutorial at the [Deep Learning for Science Summer School](https://dl4sci-school.lbl.gov/) at the Lawrence Berkeley Laboratory (LBL) on our work on foundation model for time series forecasting ([Chronos](https://arxiv.org/pdf/2403.07815?)) and AI4Science works.
+I will be giving an invited talk and tutorial at the [Deep Learning for Science Summer School](https://dl4sci-school.lbl.gov/) at the Lawrence Berkeley Laboratory (LBL) on our work on foundation model for time series forecasting ([Chronos](https://arxiv.org/pdf/2403.07815?)) and AI4Science works. Please find the recording [here](https://www.youtube.com/watch?v=4R4as2XABWg).
