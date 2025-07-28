@@ -12,6 +12,8 @@ I am interested in the intersection of machine learning and scientific computing
 
 
 ## News
+- Our tabular foundation model (TFM) [Mitra](https://www.amazon.science/blog/mitra-mixed-synthetic-priors-for-enhancing-tabular-foundation-models), which is trained purely on synthetic data is out and is available on [Hugging Face](https://huggingface.co/autogluon/mitra-classifier) and [AutoGluon 1.4](https://auto.gluon.ai/dev/tutorials/tabular/tabular-foundational-models.html)!
+- See my talk on time series foundation model [Chronos](https://arxiv.org/pdf/2403.07815) at the Lawrence Berkeley Lab (LBL) deep learning summer school [here](https://www.youtube.com/watch?v=4R4as2XABWg)!
 - We are hosting a [ICLR 2024 Workshop on AI4DifferentialEquations In Science](https://iclr.cc/virtual/2024/workshop/20581)!
 - I gave an invited talk on ["Physics-constrained Machine Learning for Earth and Sustainability Science"](https://www.youtube.com/watch?v=qflj9ZPL1vo) at the [2nd AI for Good Webinar Series for AI for Earth and Sustainability Science](https://aiforgood.itu.int/event/physics-constrained-machine-learning-for-scientific-computing/).
 - I gave an invited talk on ["Physics-constrained Machine Learning for Scientific Computing"](https://www.youtube.com/watch?v=ag5qEEYTNFg) at the [Machine Learning and Dynamical Systems Seminar](https://www.turing.ac.uk/research/interest-groups/machine-learning-and-dynamical-systems) at the Alan Turing Institute with the highest number of views and a corresponding amazon science [blog](https://www.amazon.science/blog/physics-constrained-machine-learning-for-scientific-computing).
