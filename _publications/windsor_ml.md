@@ -1,5 +1,5 @@
 ---
-title: "WindsorML--High-Fidelity Computational Fluid Dynamics Dataset For Automotive Aerodynamics"
+title: "WindsorML: High-Fidelity Computational Fluid Dynamics Dataset For Automotive Aerodynamics"
 collection: publications
 permalink: /publications/windsor_body
 excerpt:
