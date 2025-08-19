@@ -1,5 +1,5 @@
 ---
-title: "DrivAerML: High-Fidelity computational fluid dynamics dataset for road-car external aerodynamics"
+title: "DrivAerML: High-Fidelity Computational Fluid Dynamics Dataset for Road-Car External Aerodynamics"
 collection: publications
 permalink: /publications/drivaer_ml
 excerpt:
