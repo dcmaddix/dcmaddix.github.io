@@ -8,4 +8,4 @@ date: 2025-10-15
 location: "Oxford, England"
 ---
 
-I spoke at the School of Geography and the Environment, Oxford University on foundation models for time series forecasting and their potential for scientific applications related to hydro-climatic extremes.
+I spoke at the School of Geography and the Environment at Oxford University on foundation models for time series forecasting and their potential for scientific applications related to hydro-climatic extremes.
