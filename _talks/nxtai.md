@@ -1,11 +1,11 @@
 ---
-title: "Science in the Age of Foundation Models"
+title: "LLMs for Time Series Forecasting"
 collection: talks
 type: "Talk"
-permalink: /talks/nxt_ai
-venue: "Nxt AI"
-date: 2025-11-06
-location: "San Francisco, CA"
+permalink: /talks/berts_neurips
+venue: "BERTS NeurIPS Workshop"
+date: 2025-12-07
+location: "San Diego, CA"
 ---
 
-I will be speaking at the [Nxt AI Conference](https://nxtai-conference.com/speakers) on our work on physical constraints and uncertainty quantification and how both are essential for the development of scientific foundation models.
+I will be speaking at the [BERTS NeurIPS workshop](https://berts-workshop.github.io/speakers/) on our recent advances in time series foundation models with our Chronos models and their applications to chaotic systems forecasting.
