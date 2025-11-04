@@ -13,7 +13,7 @@ I am interested in the intersection of machine learning and scientific computing
 
 ## News
 - My perspective piece on [Science in the Age of Foundation Models](https://www.amazon.science/blog/science-in-the-age-of-foundation-models) discusses the potential and current limitations of foundation models for science with applications to weather forecasting and aerodynamics.
-- Our tabular foundation model (TFM) [Mitra](https://www.amazon.science/blog/mitra-mixed-synthetic-priors-for-enhancing-tabular-foundation-models), which is trained purely on synthetic data is out and is available on [Hugging Face](https://huggingface.co/autogluon/mitra-classifier) and [AutoGluon 1.4](https://auto.gluon.ai/dev/tutorials/tabular/tabular-foundational-models.html)!
+- Our tabular foundation model (TFM) [Mitra](https://arxiv.org/abs/2510.21204), which is trained purely on synthetic data is accepted at NeurIPS 2025 and is available on [Hugging Face](https://huggingface.co/autogluon/mitra-classifier) and [AutoGluon 1.4](https://auto.gluon.ai/dev/tutorials/tabular/tabular-foundational-models.html)!
 - See my talk on time series foundation model [Chronos](https://arxiv.org/pdf/2403.07815) at the Lawrence Berkeley Lab (LBL) deep learning summer school [here](https://www.youtube.com/watch?v=4R4as2XABWg)!
 - We are hosting a [ICLR 2024 Workshop on AI4DifferentialEquations In Science](https://iclr.cc/virtual/2024/workshop/20581)!
 - I gave an invited talk on ["Physics-constrained Machine Learning for Earth and Sustainability Science"](https://www.youtube.com/watch?v=qflj9ZPL1vo) at the [2nd AI for Good Webinar Series for AI for Earth and Sustainability Science](https://aiforgood.itu.int/event/physics-constrained-machine-learning-for-scientific-computing/).
