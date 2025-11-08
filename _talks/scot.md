@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Bitter Lessson In Time Series Foundation MoDEls"
+title: "Understanding the Bitter Lesson In Time Series Foundation Models"
 collection: talks
 type: "Talk"
 permalink: /talks/scot
