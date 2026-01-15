@@ -8,4 +8,4 @@ date: 2026-01-12
 location: "Santa Cruz, CA"
 ---
 
-I will be speaking at the University of California, Santa Cruz Applied Math Seminar on our work on foundation models for scientific applications including weather forecasting, automotive aerodynamics and chaotic systems.
+I spoke at the University of California, Santa Cruz Applied Math Seminar on our work on foundation models for scientific applications including weather forecasting, automotive aerodynamics and chaotic systems. Please find my slides [here](https://drive.google.com/file/d/11jyFNcHSYkRyyeYScgc9MYxtxGInGJXM/view?usp=drive_link).
