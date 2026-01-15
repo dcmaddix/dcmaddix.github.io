@@ -14,7 +14,7 @@ I have been fortunate to advise and co-advise over 10 PhD student interns:
     - PhD Candidate in Physics, Rutgers University 
   - [Annan Yu](https://annanyu.com/) 2025
     - [Understanding the Implicit Biases of Design Choices for Time Series Foundation Models](https://arxiv.org/pdf/2510.19236), *In Submission*, 2025.
-    - - [Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility](https://arxiv.org/pdf/2510.03358), *In Submission*, 2025.
+    - [Understanding Transformers for Time Series: Rank Structure, Flow-of-ranks, and Compressibility](https://arxiv.org/pdf/2510.03358), *In Submission*, 2025.
     - PhD Candidate in the Center for Applied Mathematics, Cornell University
   - [Utkarsh .](https://utkarsh530.github.io/) 2024
     - [End-to-End Probabilistic Framework for Learning with Hard Constraints](https://arxiv.org/pdf/2506.07003), *In Submission*, 2025.
