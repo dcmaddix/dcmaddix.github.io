@@ -3,9 +3,9 @@ title: "Understanding Transformers for Time Series: Rank Structure, Flow-of-rank
 collection: publications
 permalink: /publications/chronos_compress
 excerpt:
-date: 2025-10-02
+date: 2026-05-06
 venue: 'The Fourteenth International Conference on Learning Representations (ICLR), Accepted'
 paperurl: 'https://arxiv.org/abs/2510.03358'
 citation: 'Yu, A., <b>Maddix, D.C.</b>, Han, B., Zhang, X., Ansari, A.F., Shchur, O., Faloutsos, C., Wilson, A.G., Mahoney, M.W., Wang, Y., (2025). &quot;Understanding Transformers for Time Series:
-Rank Structure, Flow-of-ranks, and Compressibility. &quot; <i> Technical Report, Preprint arXiv:2510.03358</i>, Under Review.'
+Rank Structure, Flow-of-ranks, and Compressibility. &quot; <i> The Fourteenth International Conference on Learning Representations (ICLR)</i>, Accepted.'
 ---
