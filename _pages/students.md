@@ -27,7 +27,7 @@ I have been fortunate to advise and co-advise over 10 PhD student interns:
     - PhD Candidate in Statistics and Machine Learning, Carnegie Mellon University
   - [Matthias Karlbauer](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-modeling/staff/matthias-karlbauer/) 2023-2024
     - [Comparing and Contrasting Deep Learning Weather Prediction
-Backbones on Navier-Stokes and Atmospheric Dynamics](https://arxiv.org/pdf/2407.14129), *AI4DifferentialEquations In Science ICLR Workshop*, 2024.
+Backbones on Navier-Stokes and Atmospheric Dynamics](https://arxiv.org/pdf/2407.14129), *Data Science in Science*, 2026, *AI4DifferentialEquations In Science ICLR Workshop*, 2024.
     - PhD Candidate in Computer Science, University of Tübingen
   - [S Chandra Mouli](http://schandramouli.weebly.com/) 2023
     - [Using Uncertainty Quantification to Characterize and Improve
