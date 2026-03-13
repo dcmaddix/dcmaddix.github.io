@@ -8,3 +8,5 @@ venue: 'The Fourteenth International Conference on Learning Representations (ICL
 paperurl: 'https://openreview.net/pdf?id=RPowYXiRmW'
 citation: 'Utkarsh, <b>Maddix, D.C.</b>, Ma, R., Mahoney, M.W., Wang, Y., (2026). &quot;End-to-End Probabilistic Framework for Learning with Hard Constraints.&quot; <i> The Fourteenth International Conference on Learning Representations (ICLR)</i>.'
 ---
+
+Our ProbHardE2E [code](https://github.com/amazon-science/probharde2e) is on the amazon-science github.
