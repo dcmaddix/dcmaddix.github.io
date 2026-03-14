@@ -10,3 +10,5 @@ citation: 'Zhang, X., <b>Maddix, D.C.</b>, Yin, J., Erickson, N., Ansari, A.F., 
 ---
 
 Please find the Mitra [regressor checkpoint](https://huggingface.co/autogluon/mitra-regressor) and [classifier checkpoint](https://huggingface.co/autogluon/mitra-classifier) on HuggingFace!
+
+See our tutorial on how to run Mitra through AutoGluon [here](https://auto.gluon.ai/dev/tutorials/tabular/tabular-foundational-models.html).
