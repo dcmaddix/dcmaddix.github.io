@@ -9,3 +9,5 @@ paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/file/42a59a5f35
 citation: 'Ashton, N., Angel, J.B., Ghate, A.S., Kenway, G.K.W., Wong, M.L., Kiris, C., Walle, A., <b>Maddix, D.C.</b>, Page, G., (2024). &quot;WindsorML: High-Fidelity Computational Fluid
 Dynamics Dataset for Automotive Aerodynamics.&quot; <i> Proceedings of the 38th Conference of Neural Information Processing Systems (NeurIPS) Track on Datasets and Benchmarks</i>, 37:27823-37835.'
 ---
+
+Please find the WindsorML dataset on HuggingFace [here](https://huggingface.co/datasets/neashton/windsorml).
