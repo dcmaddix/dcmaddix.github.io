@@ -5,8 +5,8 @@ permalink: /publications/dlwp
 excerpt:
 date: 2026-01-27
 venue: 'Data Science in Science'
-paperurl: 'https://arxiv.org/abs/2407.14129'
-citation: 'Karlbauer, M., <b>Maddix, D.C.</b>, Ansari, A.F., Han, B., Gupta, G., Wang, Y., Stuart, A., Mahoney, M.W., (2026). &quot;Comparing and Contrasting Deep Learning Weather Prediction Backbones on Navier-Stokes and Atmospheric Dynamics.&quot; <i> Data Science in Science</i>.'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/26941899.2026.2638055'
+citation: 'Karlbauer, M., <b>Maddix, D.C.</b>, Ansari, A.F., Han, B., Gupta, G., Wang, Y., Stuart, A., Mahoney, M.W., (2026). &quot;Comparing and Contrasting Deep Learning Weather Prediction Backbones on Navier-Stokes and Atmospheric Dynamics.&quot; <i> Data Science in Science</i>, 5(1).'
 ---
 
 Our DLWP benchmarking [code](https://github.com/amazon-science/dlwp-benchmark) is on the amazon-science github.
