@@ -12,6 +12,7 @@ I am interested in the intersection of machine learning and scientific computing
 
 
 ## News
+- Our workshop on "Foundation Models for Temporal Systems: From Forecasting to World Modeling" was accepted at NeurIPS 2026!
 - We are organizing a [Deep Learning for Summer School](https://dl4sci-school.lbl.gov/) at the Lawrence Berkeley Lab (LBL) on July 20-24, 2026!
 - Our 3 papers on [compressing](https://arxiv.org/pdf/2510.03358?) and [designing](https://arxiv.org/pdf/2510.19236) time series foundation models and enforcing [differentiable hard constraints with UQ](https://arxiv.org/pdf/2506.07003) with applications to SciML and hierarchical forecasting were accepted at ICLR 2026!
 - Two of my research works made the list for [Amazon Science's Top 5 for 2025](https://thekernel.news/articles/amazon-science-top-5-2025/) and the [Top 10 Amazon Science blogs for 2025](https://www.amazon.science/blog/the-10-most-viewed-blog-posts-of-2025): our tabular foundation model Mitra and SciML works on Science in the Age of Foundation Models.
