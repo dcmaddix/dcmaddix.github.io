@@ -83,9 +83,11 @@ author:
   name             : "Danielle Maddix Robinson"
   avatar           : "danielle.png"
   bio              :  "Principal Research Scientist,
+                      Siemens Physical AI,
+                      Past AWS AI
                     PhD in Computational and Mathematical Engineering, Stanford University"
   location         : "Bay Area, California"
-  employer         : "Siemens Physical AI, Past AWS AI"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IPDByA8AAAAJ&hl=en"
   email            :  dcmaddix@gmail.com
