@@ -1,7 +1,7 @@
 ---
 title: "Chronos-2: From Univariate to Universal Forecasting"
 collection: publications
-permalink: /publications/drivaer_ml
+permalink: /publications/chronos2
 excerpt:
 date: 2025-10-17
 venue: 'Technical Report, Preprint arXiv:2510.15821'
