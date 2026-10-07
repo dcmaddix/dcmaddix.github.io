@@ -1,7 +1,7 @@
 ---
 title: "Threshold-Aware Conformal Routing"
 collection: publications
-permalink: /publications/conf_routing
+permalink: /publications/tacr
 excerpt:
 date: 2026-10-01
 venue: 'Technical Report, Preprint arXiv:2610.02487'
