@@ -9,6 +9,12 @@ redirect_from:
 
 
 I have been fortunate to advise and co-advise over 10 PhD student interns:
+- [Shiwei Tan](https://www.alphaxiv.org/@shiwei-tan) 2026
+    - PhD Candidate in Computer Science, Rutgers University
+ - [Peiyu Li](https://github.com/Peiyu-Georgia-Li) 2026
+    - PhD Candidate in Computer Science, University of Notre Dame
+  - [Florian Wolf](https://florian-wolf.cc) 2026
+    - PhD Candidate in Applied and Computational Mathematics (ACM), CalTech
   - Runkai Tao 2025-2026
     - Multi-LoRA Kernel Optimizations in [vLLM](https://github.com/vllm-project/vllm/pull/21229).  
     - PhD Candidate in Physics, Rutgers University 
