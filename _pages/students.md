@@ -10,6 +10,7 @@ redirect_from:
 
 I have been fortunate to advise and co-advise over 10 PhD student interns:
 - [Shiwei Tan](https://www.alphaxiv.org/@shiwei-tan) 2026
+    - [Threshold-Aware Conformal Routing](https://arxiv.org/pdf/2610.02487), 2026.
     - PhD Candidate in Computer Science, Rutgers University
  - [Peiyu Li](https://github.com/Peiyu-Georgia-Li) 2026
     - PhD Candidate in Computer Science, University of Notre Dame
